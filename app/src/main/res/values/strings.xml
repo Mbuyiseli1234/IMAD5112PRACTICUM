@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Budget Buddy</string>
+    <string name="splashScreenLaunchButtonText">Launch</string>
+    <string name="splashScreenExitButtonText">Exit</string>
+    <string name="saveButtonText">Save</string>
+    <string name="clearButtonText">Clear</string>
+    <string name="detailedViewScreenAverageButtonText">Average</string>
+    <string name="detailedViewScreenMaximumButtonText">Maximum</string>
+    <string name="detailedViewScreenBackButtonText">Back</string>
+    <string name="mainScreenNextButtonText">Detailed View</string>
+    <string name="dayHeaderText">Day</string>
+    <string name="morningSpendingHeaderText">Morning Spending</string>
+    <string name="afternoonSpendingHeaderText">Afternoon Spending</string>
+    <string name="expenseNotesHeaderText">Expense Notes</string>
+    <string name="tableHeaderText1">Enter your spending data</string>
+    <string name="dayInputHint">Enter the date</string>
+    <string name="morningSpendingInputHint">Enter amount spent</string>
+    <string name="afternoonSpendingInputHint">Enter amount spent</string>
+    <string name="expenseNotesInputHint">Enter spending description</string>
+
+
+
+
+
+</resources>
